@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="monet_app.jpg" alt="Claude Monet" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
+  <img src="monet_app.jpg" alt="Claude Monet" width="420" height="420" style="border-radius: 50%; object-fit: cover;" />
   
   <h1 align="center">Claude Monet Digital Museum</h1>
 
