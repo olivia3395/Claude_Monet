@@ -19,7 +19,7 @@
 
 The **Claude Monet Digital Museum** is a carefully crafted web application designed to bring the breathtaking beauty and historical significance of Monet's artwork to the digital medium. Built with a focus on typography, whitespace, and fluid interactions, this application offers an educational and aesthetic journey through the legacy of defining French Impressionism.
 
-![App Preview](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Claude_Monet_-_Haystacks_%28Effect_of_Snow_and_Sun%29.jpg/800px-Claude_Monet_-_Haystacks_%28Effect_of_Snow_and_Sun%29.jpg)
+![App Preview](monet_app2.jpg)
 
 ## ✨ Features
 
