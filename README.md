@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/800px-Claude_Monet_1899_Nadar_crop.jpg" alt="Claude Monet" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
+  <img src="monet_app.jpg" alt="Claude Monet" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
   
   <h1 align="center">Claude Monet Digital Museum</h1>
 
