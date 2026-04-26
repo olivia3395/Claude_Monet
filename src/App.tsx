@@ -392,9 +392,9 @@ export default function App() {
         initial={{ opacity: 0, y: 10 }} 
         animate={{ opacity: 1, y: 0 }} 
         exit={{ opacity: 0, y: -10 }}
-        className="flex-1 overflow-y-auto w-full absolute inset-0 top-[89px] bg-[#F7F3E9] z-40"
+        className="flex-1 overflow-y-auto w-full bg-[#F7F3E9]"
       >
-        <div className="max-w-7xl mx-auto p-6 md:p-12 lg:p-16 pt-0 mt-8">
+        <div className="max-w-7xl mx-auto p-6 md:p-12 lg:p-16 pt-8">
           <h1 className="text-4xl lg:text-5xl font-serif text-[#2D3142] mb-12 tracking-tight italic flex items-center gap-4">
             <Heart className="text-[#F27D26]" size={40} fill="#F27D26" /> My Collection
           </h1>
@@ -434,6 +434,13 @@ export default function App() {
         </div>
       </motion.div>
     )}
+
+    {/* Global Footer */}
+    <footer className="w-full py-4 shrink-0 bg-[#F7F3E9] border-t border-[#E5E0D5] text-center z-50">
+      <p className="text-xs text-[#888] font-medium tracking-wide">
+        &copy; Copyright Yuyao Wang | <a href="mailto:yuyaow@bu.edu" className="hover:text-[#4B5EAA] transition-colors">yuyaow@bu.edu</a>
+      </p>
+    </footer>
 
     {/* Fullscreen Lightbox Modal */}
     <AnimatePresence>
