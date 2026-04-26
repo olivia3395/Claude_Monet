@@ -58,46 +58,6 @@ This project leverages modern frontend technologies for maximum performance and 
 - **Animation**: [Motion (Framer Motion)](https://motion.dev/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-You need Node.js and a package manager (npm, yarn, pnpm, or bun) installed on your machine.
-
-### Installation
-
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/claude-monet-digital-museum.git
-   ```
-
-2. **Navigate into the directory**
-   ```sh
-   cd claude-monet-digital-museum
-   ```
-
-3. **Install dependencies**
-   ```sh
-   npm install
-   ```
-
-4. **Start the development server**
-   ```sh
-   npm run dev
-   ```
-
-5. **Open your browser**
-   Navigate to `http://localhost:3000` to view the app.
-
-## 📐 Design Philosophy
-
-The UI/UX is deeply inspired by classical museum exhibition layouts and editorial magazines. 
-
-- **Typography**: Utilizing `Inter` for highly legible sans-serif UI elements, alongside classic `serif` fonts to evoke traditional art catalog elegance.
-- **Color Palette**: An earthy, muted foundation (`#F7F3E9`, `#E5E0D5`) accented by sophisticated Impressionist tones (`#4B5EAA` blue, `#7DA67D` green, `#F27D26` orange).
-- **Motion**: Purposeful, non-intrusive micro-animations powered by Framer Motion to give life to transitions and layout shifts without overpowering the static beauty of the paintings.
 
 ## 📄 License & Copyright
 
