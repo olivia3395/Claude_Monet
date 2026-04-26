@@ -19,8 +19,8 @@
 
 The **Claude Monet Digital Museum** is a carefully crafted web application designed to bring the breathtaking beauty and historical significance of Monet's artwork to the digital medium. Built with a focus on typography, whitespace, and fluid interactions, this application offers an educational and aesthetic journey through the legacy of defining French Impressionism.
 
-![App Preview](monet_app2.jpg)
 
+![App Preview](monet_app2.jpg)
 ![App Preview](monet_app3.jpg)
 
 
