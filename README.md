@@ -23,7 +23,7 @@ The **Claude Monet Digital Museum** is a carefully crafted web application desig
 
 ![App Preview](monet_app3.jpg)
 
-![App Preview](monet_app4.jpg)
+
 
 ## ✨ Features
 
